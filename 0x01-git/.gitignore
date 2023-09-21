@@ -1,2 +1,2 @@
-#ignore .com files
-*.com
+#never push ~ files#
+*~
